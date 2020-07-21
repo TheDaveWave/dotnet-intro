@@ -50,7 +50,7 @@ Once you have done some googling, its time to get to work. C# is unique in that 
   
 ### Additional Resources
 
-The Microsoft online documentation has extensive introductory resources to c# and dotnet core in general. You can click through all of the resources on the left navigation pane to learn more. For example, the [https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/](Tour of C#) article is a helpful read that covers program structure, types and variables, expressions, statements, etc. The introduction to classes is useful but it's OK if you don't quite get to it.
+The Microsoft online documentation has extensive introductory resources to c# and dotnet core in general. You can click through all of the resources on the left navigation pane to learn more. For example, the [Tour of C#](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) article is a helpful read that covers program structure, types and variables, expressions, statements, etc. The introduction to classes is useful but it's OK if you don't quite get to it.
 
 ## dotnet trivia questions (Group Activity)
 
