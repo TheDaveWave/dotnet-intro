@@ -46,7 +46,8 @@ Once you have done some googling, its time to get to work. C# is unique in that 
   1. Work through the [online tutorial](https://dotnet.microsoft.com/learn/dotnet/in-browser-tutorial/1). You don't need to install anything! It's just a friendly introduction to C#.
   2. Work through the [C# in 10 minutes](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/next) tutorial. This tutorial will also have you install the dotnet SDK, which is how you will write C# on your computer. VS Code works great with C#, just be sure to also install the C# extension. ***Note:*** you will be using VS Code, not Visual Studio. Microsoft has done a good job at writing tutorials for both environments, but you should ignore any tutorial that specifically use Visual Studio.
   3. Continue learning about the language through the [online documentation](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/). The online portal is extensive and includes several tutorials including `Numbers in C#`, `Branches and Loops`, `List Collection`, and `Introduction to C#` (which includes some further exercises about classes).
-  4. Google around for more introductions: "c# for beginners", "dotnet c# for javascript developers", etc.
+  4. Read up on [Object Oriented Fundamentals in C#](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/object-oriented-programming) (at least the first 3/4)
+  5. Google around for more introductions: "c# for beginners", "dotnet c# for javascript developers", etc.
   
 ### Additional Resources
 
@@ -81,7 +82,9 @@ Work through these trivia problems as a group. Discuss and see what you can unco
   - What is does a `public void` function do?
   - What is a class?
   - What is a class property vs class method?
-  - What does it mean for a class property to be `private` vs `public`?
+  - What is the difference between an abstract and virtual class method?
+  - What does it mean for a class property to be `private` vs `public`? What about `protected`?
+  - What are getters and setters?
 
 More advanced topics, specific for web app development:
   - What is 'Code First' database design?
