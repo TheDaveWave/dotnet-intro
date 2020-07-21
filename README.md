@@ -47,6 +47,7 @@ Once you have done some googling, its time to get to work. C# is unique in that 
   2. Work through the [C# in 10 minutes](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/next) tutorial. This tutorial will also have you install the dotnet SDK, which is how you will write C# on your computer. VS Code works great with C#, just be sure to also install the C# extension. ***Note:*** you will be using VS Code, not Visual Studio. Microsoft has done a good job at writing tutorials for both environments, but you should ignore any tutorial that specifically use Visual Studio.
   3. Continue learning about the language through the [online documentation](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/). The online portal is extensive and includes several tutorials including `Numbers in C#`, `Branches and Loops`, `List Collection`, and `Introduction to C#` (which includes some further exercises about classes).
   4. Read up on [Object Oriented Fundamentals in C#](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/object-oriented-programming) (at least the first 3/4)
+  5. Read up on [how to build Web APIs with .NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio-code)
   5. Google around for more introductions: "c# for beginners", "dotnet c# for javascript developers", etc.
   
 ### Additional Resources
