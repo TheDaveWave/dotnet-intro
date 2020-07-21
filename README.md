@@ -89,4 +89,3 @@ More advanced topics, specific for web app development:
   - What are database migrations?
   - What does MVC standfor? How is each part used in a modern web app with react?
   - What is a dbContext as it relates to .NET?
-  - What is an `IActionResult`?
