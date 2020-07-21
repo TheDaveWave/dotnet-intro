@@ -30,7 +30,6 @@ Specifically about the language itself:
   - How do you make a string?
   - How do you make a collection / list / array?
   - How do you write a function?
-  - Does this language use classes or something else?
   
 Once you have started working out these basic questions about the language itself, you can start to ask questions about the general ecosystem:
 
