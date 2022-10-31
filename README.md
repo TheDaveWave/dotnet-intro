@@ -35,17 +35,34 @@ Spend some time (~30mins) googling some of these questions to see what you can u
   
 Specifically about the language itself:
   - How do you get to 'Hello World'? 
+    - Console.WriteLine("Hello World!");
   - How do you print to the console?
+    - Console.WriteLine();
   - How do you run a program?
+    - CTRL + F5 or CMD + F5
   - What kind of datatypes are there? 
+    - int
+    - long
+    - float
+    - double 
+    - bool 
+    - char 
+    - string
   - How do you make a number, integer, decimal?
+    - int number = 0;
+    - int integer = 0;
+    - float decimal = 1.1;
   - How do you make a string?
+    - string myName = "David";
   - How do you make a collection / list / array?
+    - Collection / List: var numbers = new List<int> {1, 2, 3, 4, 5};
+    - Array: int[] arr1 = {1, 2, 3, 4, 5};
   - How do you write a function?
   
 Once you have started working out these basic questions about the language itself, you can start to ask questions about the general ecosystem:
 
   - What package manager is used to install libraries?
+    - NuGet
   - How do you write an HTTP API? Is there an http micro-framework or something built in?
   - How do you connect to a database?
   - How do you turn objects into JSON?
