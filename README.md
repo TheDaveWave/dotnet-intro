@@ -11,15 +11,27 @@ When learning any new technology, there's a few questions to ask in the beginnin
 Spend some time (~30mins) googling some of these questions to see what you can uncover.
 
   - Is this language compiled or interpreted?
+    - Most say C# is a compiled language because it compiles to bytecode (IL code) where IL is Intermediate Language.
+    - bytecode is a computer object code that an interpreter converts into binary machine code so it can be read by a computer's      hardware processor.
   - Does this language use dynamic or static typing?
+    - C# is considered statically typed and originally was only statically typed. After C# 4, dynamic elements were added to improve C#'s ability to exchange information with dynamically typed languages.
   - What editor do you use to write code in this language?
+    - The most popular code editor for C# is Visual Studio Code. 
   - What plugins for the editor are popular?
+    - C# for Visual Studio Code, offering intellisense, syntax highlighting, and debugging.
+    - .NET Core Test Explorer, offering the dotnet test command which has a visual hierarchy of the test done in a tree layout.
   - Is this a stable language or something more experimental?
+    - C# is a stable language having many experimental extensions.
   - When was the latest release of the language?
+    - The most recent stable release was on November 8th 2021.
   - Who created this language?
+    - Anders Hejlsberg designed the C# language.
   - What is the most popular framework that this language uses?
+   - .NET Core is the most popular.
   - What is this language used for?
+   - It can be used for web apps, games, and other software.
   - What platforms is this language meant to run on?
+    - It can be run on Windows, Linux, and macOS using .NET Core.
   
 Specifically about the language itself:
   - How do you get to 'Hello World'? 
