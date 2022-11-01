@@ -69,6 +69,10 @@ Specifically about the language itself:
       do something 
       return something
     }
+
+Some other things to note:
+  - dotnet run 
+    - runs a dotnet app in the console
   
 Once you have started working out these basic questions about the language itself, you can start to ask questions about the general ecosystem:
 
