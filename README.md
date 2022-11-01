@@ -58,6 +58,17 @@ Specifically about the language itself:
     - Collection / List: var numbers = new List<int> {1, 2, 3, 4, 5};
     - Array: int[] arr1 = {1, 2, 3, 4, 5};
   - How do you write a function?
+    - private static string someFunction( ) 
+    {
+      do something here
+      return something
+    }
+  - For parameters:
+    - private static string someFunction( string name ) 
+    {
+      do something 
+      return something
+    }
   
 Once you have started working out these basic questions about the language itself, you can start to ask questions about the general ecosystem:
 
