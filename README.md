@@ -73,6 +73,11 @@ Specifically about the language itself:
 Some other things to note:
   - dotnet run 
     - runs a dotnet app in the console
+  - dotnet restore
+    - like npm install
+  - ? 
+    - allows you to use null.
+  - virtual and override before public <some function and what not>
   
 Once you have started working out these basic questions about the language itself, you can start to ask questions about the general ecosystem:
 
