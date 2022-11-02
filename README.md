@@ -78,6 +78,8 @@ Some other things to note:
   - ? 
     - allows you to use null.
   - virtual and override before public <some function and what not>
+  - dotnet tool install --global dotnet-ef (one time)
+  - dotnet tool upgrade / update
   
 Once you have started working out these basic questions about the language itself, you can start to ask questions about the general ecosystem:
 
